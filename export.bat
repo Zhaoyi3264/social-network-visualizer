@@ -1,0 +1,1 @@
+jar -cfm executable.jar manifest.txt application/*.class
