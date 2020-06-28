@@ -1,4 +1,4 @@
-# social-network-visualizer
+# social-network-viewer
 
 A JavaFX program that creates interactive social-network visualization with the given text input, saves, and restores session using text I/O. The program implements some basic graph algorithms, such as BFS, DFS, and Dijkstra's, to query, find connected components, and determine the shortest path between two users.
 
